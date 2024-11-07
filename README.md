@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+My name is Rob Middleton and I work full time and father to 3 boys.
+I am currently studying for a degree in Computing and IT with the Open University on a part time basis. At this point of my study, I am currently studying OOP with Java.
+Aside from the Open University study, I am trying to learn how to use Vscode to write Java programs and also how Vscode and GitHub can interact with each other to help with my work flow.
 <!--
 **RobMiddleton/RobMiddleton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
